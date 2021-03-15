@@ -1,0 +1,8 @@
+.bloop/
+.bsp/
+.metals/
+bin/
+project/
+target/
+build/
+.DS_Store

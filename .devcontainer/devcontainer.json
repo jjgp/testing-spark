@@ -1,0 +1,8 @@
+{
+    "name": "Testing Spark",
+    "dockerFile": "Dockerfile",
+    "extensions": ["scalameta.metals"],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+    }
+}
